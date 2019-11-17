@@ -29,7 +29,7 @@
   "dependencies": {
     "concat-stream": "^1.5.1",
     "mozu-metadata": "^2.3.6",
-    "tunnel-agent": "^0.4.2",
+    "tunnel-agent": "^0.6.0",
     "uri-template": "^1.0.0"
   },
   "devDependencies": {
